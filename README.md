@@ -1,2 +1,2 @@
-# Khyati-Design-Principles
-EPAM Third Task
+Shahbaaz - Design_Principles
+Epam Assignment -3
